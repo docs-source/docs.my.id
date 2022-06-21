@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django. Now, I am doing more on backend.
+Hi, I'm fr0z3n. I do stuffs with computer and sometimes write about it here.
 
-email: agus[at]python.web.id
+email: fr0z3n[at]docs.my.id
